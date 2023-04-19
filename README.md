@@ -4,9 +4,9 @@
    
 ## :wave:  About Me 
 <a href="https://twitter.com/kkkkkhushii" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/khushi-garg-96682a11a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Khushi, a 20 year old aspiring Software Developer.
+👩‍🎓 Hey! I'm Abhishek kumar , a 23 year old aspiring Software Developer.
 
-👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/g_khushi/) and always up for quick coding brainstorming sessions!
+👩‍💻 Nowadays, I’m learning Web Development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/abhi_2022/) and always up for quick coding brainstorming sessions!
 <br> 
 
 ## 🛠 &nbsp;Tech Stack
@@ -33,5 +33,5 @@
 
 <br/>
 
-  [![Khushi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khushi200701&theme=xcode)](https://git.io/khushi200701)
+  [![Abhishek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=abhi181172&theme=xcode)](https://git.io/abhi181172)
    <br />
